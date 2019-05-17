@@ -1,2 +1,2 @@
 # Zana-Abilities
-Files
+All files and ability codes for Zana.
